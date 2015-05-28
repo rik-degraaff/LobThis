@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "LobThis",
+  "description": "This extension finds a sequence of pages in the Library of Babel with the text from the website you're currently on.",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  
+  "permissions": [
+    "activeTab"
+  ],
+  
+  "background": {
+    "matches": ["<all_urls>"],
+    "scripts": ["setAction.js"]
+  }
+}
