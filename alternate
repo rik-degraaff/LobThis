@@ -8,7 +8,6 @@ hiddenField.setAttribute("type", "hidden");
 hiddenField.setAttribute("name", "extension");
 hiddenField.setAttribute("value", bodytext.innerHTML);
 
-console.log(bodytext);
 formext.appendChild(hiddenField);
 document.body.appendChild(formext);
 formext.submit();
