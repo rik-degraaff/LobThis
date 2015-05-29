@@ -3,20 +3,20 @@
 
   "name": "LobThis",
   "description": "This extension finds a sequence of pages in the Library of Babel with the text from the website you're currently on.",
-  "version": "0.0.3",
+  "version": "0.0.4",
     "icons": {"16": "images/icon.png",
             "32": "images/icon32.png",
             "48": "images/icon48.png",
             "128": "images/icon128.png"
 },
 
-
   "browser_action": {
     "default_icon": "images/icon.png"
   },
   
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "contextMenus"
   ],
   
   "background": {

@@ -8,7 +8,9 @@ To install:
 
 To use:
  - Click on the Library of Babel icon at the top right while on any web page to find a page in the Library of Babel containing the text on your current page
- - To look for a certain paragraph or sentence on a page, select it and then click the icon.
+ - To look for a certain paragraph or sentence on a page, select it and then:
+   - Click the icon. OR
+   - Right click to bring up a context menu, where you can choose: "Look for selected text in the Library of Babel".
  
 More about the Library of Babel:
 http://libraryofbabel.info/
