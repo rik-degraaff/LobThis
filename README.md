@@ -7,7 +7,8 @@ To install:
  - That's it!
 
 To use:
- - Click on the Library of Babel icon at teh top right while on any web page to find a page in the Library of Babel containingthe text on your current page
-
+ - Click on the Library of Babel icon at the top right while on any web page to find a page in the Library of Babel containing the text on your current page
+ - To look for a certain paragraph or sentence on a page, select it and then click the icon.
+ 
 More about the Library of Babel:
 http://libraryofbabel.info/
